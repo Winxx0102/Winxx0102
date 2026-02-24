@@ -1,8 +1,9 @@
+
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=3000&color=B3B3B3&lines=Hola!+👋;+soy+Winxx0102!;" />
 
 ###  Node.js & PHP Enthusiast
 
-## Soy un apasionado del desarrollo web enfocado en construir aplicaciones escalables y eficientes. 
+## Estudiante apasionado del Desarrollo Web enfocado en aplicaciones escalables y código limpio. Entusiasta de Linux y con habilidades autodidactas en mantenimiento de hardware y software.
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">   Mis Tecnologías<b></b><br>
@@ -19,7 +20,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,prisma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -47,7 +48,7 @@
 
 ## 🛠️ En lo que estoy trabajando
 - 🔭 Actualmente estoy perfeccionando mis habilidades en **NestJS y Arquitectura Limpia**.
-- 🌱 Aprendiendo constantemente sobre optimización de consultas en **PostgreSQL**.
+- 🌱 Aprendiendo constantemente sobre optimización de consultas en **PostgreSQL** mediante **Prisma**.
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
