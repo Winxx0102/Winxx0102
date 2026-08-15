@@ -12,11 +12,11 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nest,php,python,laravel,nodejs,express,vite,ts"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nest,php,python,laravel,nodejs,express,ts,flask"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,next,vite"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -28,7 +28,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,vim"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,vim,neovim"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
